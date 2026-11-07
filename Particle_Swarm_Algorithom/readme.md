@@ -3,11 +3,11 @@ https://infocomp.dcc.ufla.br/index.php/infocomp/article/view/4945
 
 
 
-PROBLEM STATEMENT :
+PROBLEM STATEMENT :  
 Given a dataset containing n features, select an optimal subset of features that:  
-Maximizes classification accuracy.  
-Minimizes the number of selected features.  
-Reduces unnecessary computational complexity.
+*) Maximizes classification accuracy.  
+*) Minimizes the number of selected features.  
+*) Reduces unnecessary computational complexity.
 
 
 
